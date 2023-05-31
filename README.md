@@ -1,4 +1,4 @@
-# c1-calculator
+# csharp-calculator
 C#计算器
 using System;
 这行代码引入了System命名空间，其中包含了Console类等基本输入输出功能。
